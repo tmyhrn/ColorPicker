@@ -4,13 +4,13 @@ body {
   display: grid;
   place-items: center;
   height: 100vh;
-  background: #000;
+  background: white;
 }
 
 div {
   background: #fff;
   padding: 2rem;
-  border-radius: 1rem;
-  width: 14rem;
+  border-radius: 1.5rem;
+  width: 20rem;
   box-shadow: 0 0 1rem rgba(0,0,0,.5);
 }
